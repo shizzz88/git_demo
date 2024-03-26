@@ -6,7 +6,13 @@ Go to **Petalinux-install-dir** and write the command:
 source <path-to-install-dir>/settings.sh
 ``
 
-3) you can verify if the environment variable is set to **Petalinux** by entering the following command:
+2) Create a new directory where you want to create the project:
+
+``
+mkdir <path-to-directory>/folder-name
+``
+
+5) you can verify if the environment variable is set to **Petalinux** by entering the following command:
 
 ``
 $PETALINUX
