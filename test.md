@@ -25,6 +25,6 @@ mkdir <path-to-directory>/folder-name
 5) Now the project can be created by the following command:
 
 ``
-petalinux-create -t project --template zynqMP -n name -d <target-folder>
+petalinux-create -t project --template zynqMP -n name 
 ``
 
