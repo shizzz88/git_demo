@@ -1,4 +1,5 @@
 #Patalinux Create Project
+
 Petalinux tool requires the environment variable to be set in order to run the command lines.
 1) Go to **Petalinux-install-dir** and write the command:
 
