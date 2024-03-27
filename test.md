@@ -36,3 +36,10 @@ The petalinux project for the 'zynqMP' device has been cretaed.
 petalinux-config --get-hw-description <path-to-xsa-file>
 ``
 
+#Path to Petalinux-kernel-source
+
+``
+ <plnx-proj-root>/build/tmp/work-shared/plnx_aarch64/kernel-source
+ ``
+
+ 
